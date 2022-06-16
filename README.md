@@ -1,4 +1,4 @@
-## Sistema para reserva de passagens aéreas ##
+## Sistema para reserva de passagens aéreas  :seat: :seat:
 [atividade INCOMPLETA]
 
 Uma pequena companhia aérea acabou de comprar um computador para seu novo sistema automatizado de reservas. Foi solicitado que você programasse o novo sistema. Você escreverá um programa para
